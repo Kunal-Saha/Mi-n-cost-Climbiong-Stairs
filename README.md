@@ -1,4 +1,4 @@
-# Min-cost-Climbiong-Stairs
+# Min-cost-Climbing-Stairs
 ```
 //Full Solution and kindly pls understand the logic and then try to implement it by own .......
 class Solution {
