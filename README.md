@@ -1,1 +1,1 @@
-# Mi-n-cost-Climbiong-Stairs
+# Min-cost-Climbiong-Stairs
